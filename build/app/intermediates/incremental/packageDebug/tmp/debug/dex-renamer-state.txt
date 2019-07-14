@@ -1,0 +1,4 @@
+#Sun Jul 14 20:04:53 BRT 2019
+base.0=/home/felipe/Documentos/request_cep/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
